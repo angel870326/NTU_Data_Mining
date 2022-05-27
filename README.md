@@ -10,7 +10,7 @@ Dataset: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysi
 ### HW2: 
 
 
-### Final Project - MBTI Classification
+### Final Project MBTI Classification
 防止 Colab 斷線
 ```
 function ConnectButton(){
