@@ -12,6 +12,7 @@ Dataset: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysi
 
 ### Final Project MBTI Classification
 防止 Colab 斷線
+
 右鍵 -> 檢查 -> Console
 ```
 function ConnectButton(){
