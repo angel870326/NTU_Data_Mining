@@ -7,12 +7,20 @@
 
 Dataset: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
 
-### HW2: 
+### HW2: Classification
+* Gaussian Naive Bayes algorithm
 
+Dataset: https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification?select=train.csv
 
-### Final Project MBTI Classification
-防止 Colab 斷線
+### Final Project: MBTI Personality Types Classification
+* LinearSVC
+* SVM (linear kernel)
+* SVM (polynomial kernel)
+* SVM (RBF kernel)
 
+Dataset: https://www.kaggle.com/datasets/zeyadkhalid/mbti-personality-types-500-dataset
+
+#### 防止 Colab 斷線
 右鍵 -> 檢查 -> Console
 ```
 function ConnectButton(){
